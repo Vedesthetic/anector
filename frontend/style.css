@@ -1,0 +1,31 @@
+body {
+  font-family: system-ui, sans-serif;
+  background: #f4f6f8;
+}
+
+.exam-container {
+  max-width: 800px;
+  margin: 60px auto;
+  background: white;
+  padding: 30px;
+  border-radius: 10px;
+}
+
+textarea {
+  width: 100%;
+  min-height: 160px;
+  padding: 12px;
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+button {
+  margin-top: 20px;
+  padding: 12px 24px;
+  font-size: 16px;
+  background: #2563eb;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
